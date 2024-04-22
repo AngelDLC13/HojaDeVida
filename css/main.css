@@ -688,7 +688,8 @@ body {
 }
 
 .sny-icon-content h4 {
-  margin-bottom: 6px;
+  margin-bottom: 12px;
+  text-align: right;
 }
 
 .sny-icon-content p {
